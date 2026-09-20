@@ -1,4 +1,4 @@
-// File: /home/felipe/Documentos/DATA026/Tendatrabalho/app/page.tsx
+// File: /home/felipe/Documentos/DATA026/tendona/Dashboard/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

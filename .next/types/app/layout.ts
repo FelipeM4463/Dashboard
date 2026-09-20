@@ -1,4 +1,4 @@
-// File: /home/felipe/Documentos/DATA026/Tendatrabalho/app/layout.tsx
+// File: /home/felipe/Documentos/DATA026/tendona/Dashboard/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
